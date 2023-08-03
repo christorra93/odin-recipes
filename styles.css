@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(41, 53, 65);
+}
+
+h1 {
+    color: black;
+    background-color: white;
+    text-align: center;
+    width: 40%;
+    margin: 30px;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 30%;
+}
+
+p {
+    background-color: red;
+    color: black;
+    font-size: 24px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+ul {
+    background-color: aquamarine;
+    color: brown;
+    text-align: center;
+    width: 20%;
+}
+
+.ingredients { 
+    background-color: maroon;
+    color: aquamarine;
+}
+
+.steps {
+    background-color: bisque;
+    color: black;
+}
