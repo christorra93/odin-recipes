@@ -8,7 +8,7 @@ h1 {
     text-align: center;
     width: 30%;
     margin: 20px auto;
-    border: 3px dotted brown;
+    border: 3px solid brown;
 }
 
 h2 {
@@ -17,12 +17,15 @@ h2 {
     text-align: center;
     width: 30%;
     margin: 0 auto;
+    border: 2px solid white
 }
 
 p {
     background-color: bisque;
     color: black;
     font-size: 18px;
+    padding: 5px;
+    border: 5px solid pink;
 }
 
 img {
@@ -33,20 +36,29 @@ img {
 }
 
 .index-list {
-    background-color: aquamarine;
+    background-color: bisque;
     color: black;
     text-align: center;
     width: 25%;
     margin: 20px auto;
     border: 2px solid red;
+    padding: 5px;
+    list-style: none;
+    font-size: 18px;
 }
 
 .ingredients { 
     background-color: bisque;
     color: black;
+    padding: 25px;
+    margin: 10px 10px;
+    border: 5px solid pink;
 }
 
 .steps {
     background-color: bisque;
     color: black;
+    padding: 25px;
+    margin: 10px 10px;
+    border: 5px solid pink;
 }
