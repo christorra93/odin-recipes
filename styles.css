@@ -16,12 +16,13 @@ h2 {
     background-color: black;
     text-align: center;
     width: 30%;
+    margin: 0 auto;
 }
 
 p {
     background-color: bisque;
     color: black;
-    font-size: 24px;
+    font-size: 18px;
 }
 
 img {
