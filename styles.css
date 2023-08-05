@@ -39,12 +39,12 @@ img {
     background-color: bisque;
     color: black;
     text-align: center;
-    width: 25%;
     margin: 20px auto;
     border: 2px solid red;
     padding: 5px;
     list-style: none;
     font-size: 18px;
+    width: 60%;
 }
 
 .ingredients { 
