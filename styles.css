@@ -18,7 +18,7 @@ h2 {
 }
 
 p {
-    background-color: red;
+    background-color: bisque;
     color: black;
     font-size: 24px;
 }
@@ -30,14 +30,14 @@ img {
 
 ul {
     background-color: aquamarine;
-    color: brown;
+    color: black;
     text-align: center;
     width: 20%;
 }
 
 .ingredients { 
-    background-color: maroon;
-    color: aquamarine;
+    background-color: bisque;
+    color: black;
 }
 
 .steps {
